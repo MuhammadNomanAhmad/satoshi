@@ -1,0 +1,10 @@
+.navbar-light {
+  color: black !important;
+
+  font-weight: bold;
+}
+
+.navbar-links {
+  font-size: 20px;
+  color: black !important;
+}

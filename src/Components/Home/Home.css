@@ -1,0 +1,102 @@
+.bgHomeColor {
+  background-image: linear-gradient(
+    to top,
+    #bfdbfe,
+    #93c5fd,
+    #fde4f7,
+    #e9d8fd,
+    #c4c2fc,
+    #9cd1a9
+  );
+}
+.gfgfgf {
+}
+.card-bg {
+  /* background-color:blue; */
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border: 1px solid black;
+}
+.card-bg {
+  /* background-color: #add8e6; */
+  background-color: rgba(255, 255, 255, 0.557);
+  border-radius: 20px;
+}
+.card-btn {
+  display: inline-block;
+  /* padding: 12px 20px; */
+  height: 50px;
+  width: 50px;
+  background-color: #62c8a9;
+  color: #fff;
+  font-size: 24px;
+  border-radius: 50%;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 2px 3px black;
+}
+.homeCardBtn {
+  padding: 3px 10px;
+  font-weight: bold;
+}
+.input-field {
+  width: 150px !important;
+  font-size: 1.4rem;
+}
+.gfgfgf .css-1hv8oq8-MuiStepLabel-label {
+  font-size: 18px !important;
+  font-weight: bold !important;
+  color: black !important;
+  padding-left: 15px !important;
+}
+.connectWalletBtn {
+  background-color: #ffbb42;
+  border-radius: 10px;
+  box-shadow: 2px 3px black;
+  width: 200px;
+}
+
+.button-width {
+  width: 250px;
+  margin: auto;
+}
+
+.homeCardBtn {
+  background-color: #fff7af;
+  border-radius: 10px;
+  /* padding: 8px 20px; */
+  width: 100px;
+  height: 40px;
+  box-shadow: 2px 3px black;
+}
+.homePlaneImg {
+  /* transform:scale(1.5);
+  transform:translateX(120px); */
+}
+.gfgfgf .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+  color: black !important;
+  font-weight: bold;
+}
+.gfgfgf .css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
+  color: black !important;
+  font-weight: bold !important;
+}
+.stepper .css-117w1su-MuiStepIcon-text {
+  font-size: 14px !important;
+}
+
+@media (max-width: 768px) {
+  .card-btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #62c8a9;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 50%;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+  }
+}

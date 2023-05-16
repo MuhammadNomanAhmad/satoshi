@@ -1,0 +1,40 @@
+.bgNftBuyImg {
+  background-image: url(../../../assets/Group\ 907.png);
+  background-repeat: no-repeat;
+
+  background-size: cover !important;
+}
+.bgNftBuyClr {
+  background: linear-gradient(
+    to top,
+    #bfdbfe,
+    #93c5fd,
+    #fde4f7,
+    #e9d8fd,
+    #c4c2fc,
+    #9cd1a9
+  );
+}
+
+.nft-buy-show-card {
+  background-color: rgba(255, 253, 251, 0.478);
+  border-radius: 15px;
+  padding-bottom: 10px;
+}
+
+.nft-buy-img-card {
+  border-radius: 15px;
+  box-shadow: 2px 3px black;
+}
+
+.nft-buy-btnClose {
+  background-color: #62c8a9 !important;
+  opacity: 1 !important;
+
+  padding: 8px !important;
+  border-radius: 50%;
+}
+
+.nftTRansfer-card-body {
+  padding: 0;
+}

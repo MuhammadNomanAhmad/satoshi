@@ -1,0 +1,32 @@
+.bg-mynft-color {
+  background-image: linear-gradient(
+    to top,
+    #bfdbfe,
+    #93c5fd,
+    #fde4f7,
+    #e9d8fd,
+    #c4c2fc,
+    #9cd1a9
+  );
+}
+.bg-mynft-box {
+  background-color: rgba(255, 255, 255, 0.557);
+  border: 1px solid #757575;
+}
+.myNft-btnClose {
+  background-color: #62c8a9 !important;
+  opacity: 1 !important;
+  box-shadow: 2px 3px black;
+  padding: 15px !important;
+  border-radius: 50%;
+}
+
+.nft-transfer-btn {
+  background-color: #fe88e4;
+}
+.pg-previous {
+  background-color: #62c8a9 !important;
+}
+.page-link {
+  color: black !important;
+}
